@@ -1,0 +1,17 @@
+{
+  "default-configuration": "Release",
+  "configurations": [
+    "Debug",
+    "Release",
+  ],
+  "localizations": {
+    "development": "en",
+    "supported": [
+      "Base",
+    ],
+  },
+  "files": [
+  ],
+  "products-group": null,
+  "last-upgrade": "27.2",
+}
